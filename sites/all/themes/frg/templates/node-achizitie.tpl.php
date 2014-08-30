@@ -57,9 +57,6 @@
  * @see genesis_preprocess_node()
  */
 ?>
-<h3>
-	<img alt="" src="/sites/default/files/images/achizitii_project2.jpg" style="width: 700px;" />
-</h3>
 <div<?php print $article_id ? ' id="'. $article_id .'"' : ''; ?> class="<?php print $classes; ?>">
 
   <?php if (!$page): ?>
